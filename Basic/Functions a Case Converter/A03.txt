@@ -1,0 +1,2 @@
+Program Description, Interfaces, and Functionality
+There are two functions. The first will be called print opposite case (sentence) that accepts one formal parameter sentence and prints a string with all the original upper case characters changed to lower-case and the original lower-case characters to upper-case. The second function we will write is called get changed case(ch) that accepts a single character ch and returns the opposite case of the character.

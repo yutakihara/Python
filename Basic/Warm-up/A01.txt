@@ -1,0 +1,2 @@
+Program Description, Interfaces, and Functionality
+Print a list of three interesting places to visit in the Los Angeles area (e.g. The Hunt- ington Gardens, Annenberg Beach House, LACMA, etc.).Number the list as shown in the example without using the numbers 1, 2, or 3. Use only the number 8 in your program to print 1, 2, and 3.

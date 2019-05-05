@@ -1,0 +1,3 @@
+Program Description, Interfaces, and Functionality
+Create a simple question and answer game using if statements, Boolean expressions, Python I/O for interaction and looping control flow structures.
+Choose a topic and create three questions and answers to ask a player. For each question, the game will decide if the correct answer was chosen. The player must be able to continuously run the game if they did not answer all three questions correctly. If the player answers all questions correctly the game will end. See the usage below for implementation details.
