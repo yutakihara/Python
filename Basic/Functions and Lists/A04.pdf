@@ -1,0 +1,3 @@
+Python lists and the def keyword to create functions that work on 1D and 2D lists. 
+In mathematics, a 2D list of numbers is called a matrix which is assembled into a table of rows and columns.
+In Python, a matrix can be created using 2D lists, also called a two-dimensional table.
